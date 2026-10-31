@@ -68,8 +68,7 @@ We try to understand all the aspects of our datasets.
 3. [Performance Analysis](./06_analysis/2_Advanced_Analytics/03_Performance_Analysis.sql): Compare the current value to a target value.  
 
 4. [Part to Whole Analysis](./06_analysis/2_Advanced_Analytics/04_Part_Whole_Analysis.sql): Understand which category has the greatest impact on the business.  
-
-5. [Data Segmentation](./06_analysis/2_Advanced_Analytics/05_Data_Segmentation.sql)  
+5. [Data Segmentation](./06_analysis/2_Advanced_Analytics/05_Data_Segmentation.sql): Grouped customers and products into meaningful segments.   
 
 ## Reports  
 - Built two business-ready **SQL views** in the Gold layer (Customers Report and Products Report), each combining descriptive attributes with aggregated measures
