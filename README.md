@@ -57,4 +57,23 @@ We try to understand all the aspects of our datasets.
 
 4. [Measures Exploration](./06_analysis/1_EDA/04_Measures_Exploration.sql): Calculate key business metrics to establish a high-level overview of the business.  
 
-5. [Magnitude and Ranking Analysis](./06_analysis/1_EDA/05_Magnitude_Ranking_Analysis.sql): Compare business measures across products, categories, subcategories, and customer segments. Rank the results from highest to lowest.
+5. [Magnitude and Ranking Analysis](./06_analysis/1_EDA/05_Magnitude_Ranking_Analysis.sql): Compare business measures across products, categories, subcategories, and customer segments. Rank the results from highest to lowest.  
+
+## Advanced Analytics  
+
+1. [Change Over Time](./06_analysis/2_Advanced_Analytics/01_Change_Over_Time.sql): Helps track trends and identify seasonality in the data.  
+
+2. [Cumulative Analysis](./06_analysis/2_Advanced_Analytics/02_Cumulative_Analysis.sql): Helps understand whether the business is growing or declining.  
+
+3. [Performance Analysis](./06_analysis/2_Advanced_Analytics/03_Performance_Analysis.sql): Compare the current value to a target value.  
+
+4. [Part to Whole Analysis](./06_analysis/2_Advanced_Analytics/04_Part_Whole_Analysis.sql): Understand which category has the greatest impact on the business.  
+
+5. [Data Segmentation](./06_analysis/2_Advanced_Analytics/05_Data_Segmentation.sql)  
+
+## Reports  
+Two business-ready views in the Gold layer.  
+Each report combines descriptive attributes with aggregated measures.
+
+  1. [Customers Report](./06_analysis/3_Reports/01_report_customers.sql)  
+  2. [Products Report](./06_analysis/3_Reports/02_report_products.sql)
