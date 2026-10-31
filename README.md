@@ -72,8 +72,8 @@ We try to understand all the aspects of our datasets.
 5. [Data Segmentation](./06_analysis/2_Advanced_Analytics/05_Data_Segmentation.sql)  
 
 ## Reports  
-Two business-ready views in the Gold layer.  
-Each report combines descriptive attributes with aggregated measures.
+- Built two business-ready **SQL views** in the Gold layer (Customers Report and Products Report), each combining descriptive attributes with aggregated measures
+- Analysts can connect the views directly to dashboard tools and generate insights without extensive data preparation, or write queries on top of the views for quick analysis
 
-  1. [Customers Report](./06_analysis/3_Reports/01_report_customers.sql)  
-  2. [Products Report](./06_analysis/3_Reports/02_report_products.sql)
+1. [Customers Report](./06_analysis/3_Reports/01_report_customers.sql)  
+2. [Products Report](./06_analysis/3_Reports/02_report_products.sql)
