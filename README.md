@@ -75,4 +75,6 @@ We try to understand all the aspects of our datasets.
 - Analysts can connect the views directly to dashboard tools and generate insights without extensive data preparation, or write queries on top of the views for quick analysis
 
 1. [Customers Report](./06_analysis/3_Reports/01_report_customers.sql)  
-2. [Products Report](./06_analysis/3_Reports/02_report_products.sql)
+2. [Products Report](./06_analysis/3_Reports/02_report_products.sql)  
+
+- [Download Power BI Report](./06_analysis/3_Reports/Power_BI_Report/Sales_Analytics_Report.pbix)
